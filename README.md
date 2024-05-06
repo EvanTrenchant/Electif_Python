@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode
 ## Comparaison des statistiques entre joueurs (saison 2022-23)
 ## Comparaison des statistiques entre équipes (saison 2022-23)
 ## Comparaison des statistiques globales (saisons 20213 à 2023)
-## Machine learning (saisons 2016 à 2024)
+## Machine learning (saisons 2015 à 2024)
 
 ---
 
